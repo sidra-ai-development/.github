@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sidra-ai-development/unlimited-coding/main/assets/sidra-logo.png" width="110" alt="SIDRA logo" />
+  <img src="https://raw.githubusercontent.com/sidra-ai-development/sidra-os/main/assets/sidra-logo.png" width="110" alt="SIDRA logo" />
 </p>
 
 <h1 align="center">SIDRA AI Development</h1>
@@ -27,7 +27,7 @@
 
 ## Flagship repository
 
-### [SIDRA OS — Turn Your Chat Into a Real Agent](https://github.com/sidra-ai-development/unlimited-coding)
+### [SIDRA OS — Turn Your Chat Into a Real Agent](https://github.com/sidra-ai-development/sidra-os)
 
 A public product showcase with the story, architecture, screenshots, demos, SIDRA Brain, orchestration, SCODE integration, and direct product links.
 
@@ -52,6 +52,6 @@ Real work on your authorized computer
 
 <p align="center">
   <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=org_profiledocs/quickstart">Quick Start</a> ·
-  <a href="https://github.com/sidra-ai-development/unlimited-coding/discussions">Community Discussions</a> ·
+  <a href="https://github.com/sidra-ai-development/sidra-os/discussions">Community Discussions</a> ·
   <a href="mailto:support@sidra-ai.com">support@sidra-ai.com</a>
 </p>
