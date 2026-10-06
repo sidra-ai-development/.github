@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://agent.sidra-ai.com/start"><img alt="Try SIDRA OS free for 3 days" src="https://img.shields.io/badge/TRY%20SIDRA%20OS-FREE%20FOR%203%20DAYS-111111?style=for-the-badge"></a>
-  <a href="https://agent.sidra-ai.com/"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-agent.sidra--ai.com-4b5563?style=for-the-badge"></a>
+  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=org_profilestart?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=org_profile"><img alt="Try SIDRA OS free for 3 days" src="https://img.shields.io/badge/TRY%20SIDRA%20OS-FREE%20FOR%203%20DAYS-111111?style=for-the-badge"></a>
+  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=org_profile"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-agent.sidra--ai.com-4b5563?style=for-the-badge"></a>
 </p>
 
 ## Products
@@ -22,8 +22,8 @@
 | **Turn the AI chat you already use into real work on your computer.** | **Fast, persistent open-source coding runtime for AI workflows.** |
 | Files · Terminal · Browser · Apps · SIDRA Brain · Orchestration · Verification | Read · Edit · Search · Shell · Sessions · MCP · Cloud/Local model support |
 | macOS + Windows | macOS + Windows + Linux |
-| [Explore SIDRA OS →](https://agent.sidra-ai.com/) | [View SCODE →](https://github.com/sidra-ai-development/scode) |
-| [Start 3-day free trial →](https://agent.sidra-ai.com/start) | [SCODE website →](https://agent.sidra-ai.com/scode) |
+| [Explore SIDRA OS →](https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=org_profile) | [View SCODE →](https://github.com/sidra-ai-development/scode) |
+| [Start 3-day free trial →](https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=org_profilestart?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=org_profile) | [SCODE website →](https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=org_profilescode) |
 
 ## Flagship repository
 
@@ -51,7 +51,7 @@ Real work on your authorized computer
 <p align="center"><strong>One SIDRA layer. Multiple AI brains. One authorized computer.</strong></p>
 
 <p align="center">
-  <a href="https://agent.sidra-ai.com/docs/quickstart">Quick Start</a> ·
+  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=org_profiledocs/quickstart">Quick Start</a> ·
   <a href="https://github.com/sidra-ai-development/unlimited-coding/discussions">Community Discussions</a> ·
   <a href="mailto:support@sidra-ai.com">support@sidra-ai.com</a>
 </p>
